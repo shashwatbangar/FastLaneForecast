@@ -5,7 +5,7 @@
 The goal of this project is to perform data analytics on Formula 1 data using various tools and technologies, including Apache Spark, Python, Hadoop and Tableau.
 
 ## Architecture 
-<img src="architecture.png">
+<img src="architecture.jpeg">
 
 ## Visuals
 <img src="uber1.png">
