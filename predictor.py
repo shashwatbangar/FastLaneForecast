@@ -2,11 +2,11 @@ import pandas as pd
 import pickle
 from sklearn.preprocessing import LabelEncoder
 
-driver_dict = pickle.load(open(r'C:\Users\shant\Desktop\StreamlitWebApp\dictionary\driver_dict','rb'))
-constructor_dict = pickle.load(open(r'C:\Users\shant\Desktop\StreamlitWebApp\dictionary\constructor_dict','rb'))
-clf = pickle.load(open(r'C:\Users\shant\Desktop\StreamlitWebApp\raoforest.pkl','rb'))
+driver_dict = pickle.load(open('dictionary/driver_dict','rb'))
+constructor_dict = pickle.load(open('dictionary/driver_dict','rb'))
+clf = pickle.load(open('raoforest.pkl','rb'))
 
-data = pd.read_csv(r"cleaned_data.csv")
+data = pd.read_csv("cleaned_data.csv")
 
 y_dict = {1:'Podium Finish',
           2:'Points Finish',
