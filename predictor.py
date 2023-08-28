@@ -3,7 +3,7 @@ import pickle
 from sklearn.preprocessing import LabelEncoder
 
 driver_dict = pickle.load(open('dictionary/driver_dict','rb'))
-constructor_dict = pickle.load(open('dictionary/driver_dict','rb'))
+constructor_dict = pickle.load(open('dictionary/constructor_dict','rb'))
 clf = pickle.load(open('raoforest.pkl','rb'))
 
 data = pd.read_csv("cleaned_data.csv")
