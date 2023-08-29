@@ -8,7 +8,7 @@ The goal of this project is to perform data analytics on Formula 1 data using va
 <img src="architecture.jpeg">
 
 ## Visuals
-<img src="uber1.png">
+<img src="visual.jpeg">
 
 ## Technology Used
 - Programming Language - Python
