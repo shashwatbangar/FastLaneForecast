@@ -12,7 +12,7 @@ def intro():
 
         ### Interested in diving deeper?
 
-        ###### Explore the [FastLane Forecast](https://github.com/shashwatbangar/FastLaneForecast) repository to delve into the source code.
+        ###### Explore the [FastLane Forecast](https://github.com/shashwatbangar/Formula1DataAnalytics) repository to delve into the source code.
         - Complete source code.
         - Data model design
         - Architecture design
