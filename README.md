@@ -20,7 +20,7 @@ Tech stack
 4. Tableau
 5. Machine learning
 
-## Website - https://fastlaneforecast-90d27975bbe0.herokuapp.com/
+## Website - [FastLane Forecast](https://fastlaneforecast.streamlit.app/)
 
 
 ## Dataset Used
